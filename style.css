@@ -1,0 +1,78 @@
+body{
+background-color: lightblue;
+margin: 0;
+}
+article{
+background-color: white;
+padding: 25px;
+border-radius: 25px;
+}
+.inputs{
+border-radius: 25px;
+border: 1px #555 solid;
+padding: 5px 50px;
+padding: 5px 25px;
+margin-bottom: 20px;
+}
+.form-container{
+margin-left: 30%;
+padding: 25px;
+
+}
+label{
+color: #444;
+}
+/* the following is for redesigning the button color */
+
+#btn{
+background-color: darkmagenta;
+color: white;
+border:none;
+padding: 5px 100px;
+border-radius: 5px;
+}
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+#box3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.container{
+    background-color: black;
+    padding: 10px 5px;
+}
+
+.navitems-list{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navitems-list li{
+    margin: 5px;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#logo{
+    width: 25px;
+}
+
+.img-container{
+    position: absolute;
+}
